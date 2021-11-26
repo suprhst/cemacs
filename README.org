@@ -1,0 +1,8 @@
+* Split Emacs Config
+
+Configuration i used on my video on split emacs config with straight.el
+  #+BEGIN_SRC bash
+    git clone https://github.com/suprhst/cemacs
+    cd cemacs
+    cp *.el .emacs.d/
+  #+END_SRC
